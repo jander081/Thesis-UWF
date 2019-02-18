@@ -1,0 +1,9 @@
+auc: 0.6657443377215926 logloss: 0.3480485981199256
+ recall: 0.36955602536997884 precision: 0.6154929577464788 accuracy: 0.8780823557577209 f1: 0.46182298546895634
+[13797   546]
+[1491  874]
+ time: 24min 15s ± 11.6 s per loop (mean ± std. dev. of 7 runs, 1 loop each)
+reduced model parameters
+{'learning_rate': 0.05121966139151981, 'max_depth': 7, 'n_estimators': 175, 'seed': 293}
+full model parameters
+{'learning_rate': 0.05121966139151981, 'max_depth': 7, 'n_estimators': 175, 'seed': 293}
